@@ -1,0 +1,59 @@
+C:\Users\sevda_000\Documents\Visual Studio 2010\Projects\Puzzle\Bin\Release\ApplicationIcon.png
+C:\Users\sevda_000\Documents\Visual Studio 2010\Projects\Puzzle\Bin\Release\Background.png
+C:\Users\sevda_000\Documents\Visual Studio 2010\Projects\Puzzle\Bin\Release\Puzzle15.dll
+C:\Users\sevda_000\Documents\Visual Studio 2010\Projects\Puzzle\Bin\Release\Puzzle15.pdb
+C:\Users\sevda_000\Documents\Visual Studio 2010\Projects\Puzzle\Bin\Release\AppManifest.xaml
+C:\Users\sevda_000\Documents\Visual Studio 2010\Projects\Puzzle\Bin\Release\Puzzle15.xap
+C:\Users\sevda_000\Documents\Visual Studio 2010\Projects\Puzzle\Bin\Release\Microsoft.Phone.Controls.dll
+C:\Users\sevda_000\Documents\Visual Studio 2010\Projects\Puzzle\Bin\Release\Microsoft.Phone.Controls.Maps.dll
+C:\Users\sevda_000\Documents\Visual Studio 2010\Projects\Puzzle\Bin\Release\Microsoft.Phone.Controls.xml
+C:\Users\sevda_000\Documents\Visual Studio 2010\Projects\Puzzle\Bin\Release\Microsoft.Phone.Controls.Maps.xml
+C:\Users\sevda_000\Documents\Visual Studio 2010\Projects\Puzzle\obj\Release\App.g.i.cs
+C:\Users\sevda_000\Documents\Visual Studio 2010\Projects\Puzzle\obj\Release\About.g.i.cs
+C:\Users\sevda_000\Documents\Visual Studio 2010\Projects\Puzzle\obj\Release\Help.g.i.cs
+C:\Users\sevda_000\Documents\Visual Studio 2010\Projects\Puzzle\obj\Release\MainPage.g.i.cs
+C:\Users\sevda_000\Documents\Visual Studio 2010\Projects\Puzzle\obj\Release\Puzzle15.g.resources
+C:\Users\sevda_000\Documents\Visual Studio 2010\Projects\Puzzle\obj\Release\Puzzle15.dll
+C:\Users\sevda_000\Documents\Visual Studio 2010\Projects\Puzzle\obj\Release\Puzzle15.pdb
+C:\Users\sevda_000\Documents\Visual Studio 2010\Projects\Puzzle\obj\Release\XapCacheFile.xml
+C:\Users\sevda_000\Documents\Visual Studio 2010\Projects\Acik Akademiye Gonderilecekler\Puzzle\Bin\Release\ApplicationIcon.png
+C:\Users\sevda_000\Documents\Visual Studio 2010\Projects\Acik Akademiye Gonderilecekler\Puzzle\Bin\Release\Background.png
+C:\Users\sevda_000\Documents\Visual Studio 2010\Projects\Acik Akademiye Gonderilecekler\Puzzle\Bin\Release\Puzzle15.dll
+C:\Users\sevda_000\Documents\Visual Studio 2010\Projects\Acik Akademiye Gonderilecekler\Puzzle\Bin\Release\Puzzle15.pdb
+C:\Users\sevda_000\Documents\Visual Studio 2010\Projects\Acik Akademiye Gonderilecekler\Puzzle\Bin\Release\AppManifest.xaml
+C:\Users\sevda_000\Documents\Visual Studio 2010\Projects\Acik Akademiye Gonderilecekler\Puzzle\Bin\Release\Puzzle15.xap
+C:\Users\sevda_000\Documents\Visual Studio 2010\Projects\Acik Akademiye Gonderilecekler\Puzzle\Bin\Release\Microsoft.Phone.Controls.dll
+C:\Users\sevda_000\Documents\Visual Studio 2010\Projects\Acik Akademiye Gonderilecekler\Puzzle\Bin\Release\Microsoft.Phone.Controls.Maps.dll
+C:\Users\sevda_000\Documents\Visual Studio 2010\Projects\Acik Akademiye Gonderilecekler\Puzzle\Bin\Release\Microsoft.Phone.Controls.xml
+C:\Users\sevda_000\Documents\Visual Studio 2010\Projects\Acik Akademiye Gonderilecekler\Puzzle\Bin\Release\Microsoft.Phone.Controls.Maps.xml
+C:\Users\sevda_000\Documents\Visual Studio 2010\Projects\Acik Akademiye Gonderilecekler\Puzzle\obj\Release\App.g.i.cs
+C:\Users\sevda_000\Documents\Visual Studio 2010\Projects\Acik Akademiye Gonderilecekler\Puzzle\obj\Release\About.g.i.cs
+C:\Users\sevda_000\Documents\Visual Studio 2010\Projects\Acik Akademiye Gonderilecekler\Puzzle\obj\Release\Help.g.i.cs
+C:\Users\sevda_000\Documents\Visual Studio 2010\Projects\Acik Akademiye Gonderilecekler\Puzzle\obj\Release\MainPage.g.i.cs
+C:\Users\sevda_000\Documents\Visual Studio 2010\Projects\Acik Akademiye Gonderilecekler\Puzzle\obj\Release\Puzzle15.g.resources
+C:\Users\sevda_000\Documents\Visual Studio 2010\Projects\Acik Akademiye Gonderilecekler\Puzzle\obj\Release\Puzzle15.dll
+C:\Users\sevda_000\Documents\Visual Studio 2010\Projects\Acik Akademiye Gonderilecekler\Puzzle\obj\Release\Puzzle15.pdb
+C:\Users\sevda_000\Documents\Visual Studio 2010\Projects\Acik Akademiye Gonderilecekler\Puzzle\obj\Release\XapCacheFile.xml
+C:\Users\sevda_000\Documents\Visual Studio 2010\Projects\Acik Akademiye Gonderilecekler\Puzzle\obj\Release\AcikAkademiPuzzle.csprojResolveAssemblyReference.cache
+C:\Users\Sevdanur\Desktop\PrepToIletisimSoftware\Acik Akademiye Phone Uygulamalari\Puzzle\Bin\Release\ApplicationIcon.png
+C:\Users\Sevdanur\Desktop\PrepToIletisimSoftware\Acik Akademiye Phone Uygulamalari\Puzzle\Bin\Release\Background.png
+C:\Users\Sevdanur\Desktop\PrepToIletisimSoftware\Acik Akademiye Phone Uygulamalari\Puzzle\Bin\Release\Puzzle15.dll
+C:\Users\Sevdanur\Desktop\PrepToIletisimSoftware\Acik Akademiye Phone Uygulamalari\Puzzle\Bin\Release\Puzzle15.pdb
+C:\Users\Sevdanur\Desktop\PrepToIletisimSoftware\Acik Akademiye Phone Uygulamalari\Puzzle\Bin\Release\AppManifest.xaml
+C:\Users\Sevdanur\Desktop\PrepToIletisimSoftware\Acik Akademiye Phone Uygulamalari\Puzzle\Bin\Release\Puzzle15.xap
+C:\Users\Sevdanur\Desktop\PrepToIletisimSoftware\Acik Akademiye Phone Uygulamalari\Puzzle\Bin\Release\Microsoft.Phone.Controls.dll
+C:\Users\Sevdanur\Desktop\PrepToIletisimSoftware\Acik Akademiye Phone Uygulamalari\Puzzle\Bin\Release\Microsoft.Phone.Controls.Maps.dll
+C:\Users\Sevdanur\Desktop\PrepToIletisimSoftware\Acik Akademiye Phone Uygulamalari\Puzzle\Bin\Release\Microsoft.Phone.Controls.Toolkit.dll
+C:\Users\Sevdanur\Desktop\PrepToIletisimSoftware\Acik Akademiye Phone Uygulamalari\Puzzle\Bin\Release\Microsoft.Phone.Controls.xml
+C:\Users\Sevdanur\Desktop\PrepToIletisimSoftware\Acik Akademiye Phone Uygulamalari\Puzzle\Bin\Release\Microsoft.Phone.Controls.Maps.xml
+C:\Users\Sevdanur\Desktop\PrepToIletisimSoftware\Acik Akademiye Phone Uygulamalari\Puzzle\Bin\Release\Microsoft.Phone.Controls.Toolkit.pdb
+C:\Users\Sevdanur\Desktop\PrepToIletisimSoftware\Acik Akademiye Phone Uygulamalari\Puzzle\Bin\Release\Microsoft.Phone.Controls.Toolkit.xml
+C:\Users\Sevdanur\Desktop\PrepToIletisimSoftware\Acik Akademiye Phone Uygulamalari\Puzzle\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Sevdanur\Desktop\PrepToIletisimSoftware\Acik Akademiye Phone Uygulamalari\Puzzle\obj\Release\App.g.i.cs
+C:\Users\Sevdanur\Desktop\PrepToIletisimSoftware\Acik Akademiye Phone Uygulamalari\Puzzle\obj\Release\About.g.i.cs
+C:\Users\Sevdanur\Desktop\PrepToIletisimSoftware\Acik Akademiye Phone Uygulamalari\Puzzle\obj\Release\Help.g.i.cs
+C:\Users\Sevdanur\Desktop\PrepToIletisimSoftware\Acik Akademiye Phone Uygulamalari\Puzzle\obj\Release\MainPage.g.i.cs
+C:\Users\Sevdanur\Desktop\PrepToIletisimSoftware\Acik Akademiye Phone Uygulamalari\Puzzle\obj\Release\Puzzle15.g.resources
+C:\Users\Sevdanur\Desktop\PrepToIletisimSoftware\Acik Akademiye Phone Uygulamalari\Puzzle\obj\Release\Puzzle15.dll
+C:\Users\Sevdanur\Desktop\PrepToIletisimSoftware\Acik Akademiye Phone Uygulamalari\Puzzle\obj\Release\Puzzle15.pdb
+C:\Users\Sevdanur\Desktop\PrepToIletisimSoftware\Acik Akademiye Phone Uygulamalari\Puzzle\obj\Release\XapCacheFile.xml
